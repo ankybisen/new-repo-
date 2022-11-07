@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>applet</label>
+		<id>15</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>applet.jcu</path>
+		</user>
+	</users>
+</workspace>
